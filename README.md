@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lovnish Verma  bahi g👋</h1>
+<h1 align="center">Hi there, I'm Lovnish Verma 👋</h1>
 
 <p align="center">
   <b>Software Developer · AI/ML Engineer & Researcher · e-Governance Technologist</b><br/>
